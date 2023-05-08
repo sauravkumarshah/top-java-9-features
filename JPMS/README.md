@@ -1,3 +1,6 @@
+# Modularization
+Modularization allows developers to break up their code into small, self-contained modules that can be easily managed and updated. For example, a developer could create a module for the UI layer, another for the business logic, and another for the data access layer. This makes it easier to maintain and update the application, as changes can be made to individual modules without affecting the rest of the application.
+
 # JPMS
 - Java 9 introduces a new level of abstraction above packages, formally known as the Java Platform Module System (JPMS), or "Module" for short.
 - *Package*: a group of similar types of classes, interfaces and subpackages.
